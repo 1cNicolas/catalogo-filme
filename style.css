@@ -11,7 +11,7 @@ header {
     color: rgb(42, 122, 228);
 }
 
-section {
+.chamada {
     background: rgb(82, 201, 98);
     padding-bottom: 80px;
     display: flex;
